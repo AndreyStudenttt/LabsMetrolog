@@ -31,7 +31,7 @@ namespace Lab1Cons
                     argvol += dir[i];
                 }
             }
-           
+            Console.WriteLine(argvol/m);
             //for (int i = 0; i < dir.Length; i++)
             //{
             //    Console.WriteLine(dir[i]);
